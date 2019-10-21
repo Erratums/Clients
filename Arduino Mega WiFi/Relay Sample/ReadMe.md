@@ -10,3 +10,7 @@
 Sampel code for
 - [Arduino Mega](https://github.com/Erratums/Clients/blob/Arduino/Arduino%20Mega%20WiFi/Relay%20Sample/Mega/Mega.ino)
 - [ESP8266](https://github.com/Erratums/Clients/blob/Arduino/Arduino%20Mega%20WiFi/Relay%20Sample/ESP8266/ESP8266.ino)
+
+After programming each module, please make sure 
+- DIP Switches 1-4 is ON and 5-7 is OFF
+- Switch 2 is moved to RXD3/TXD3 side 
